@@ -10,7 +10,7 @@
     <toc-element topic="overview.md"  show-structure-depth="3">
         <toc-element topic="apiLevels.md">
             <toc-element topic="stringApi.md"/>
-            <toc-element toc-title="Column Accessors API" id="columnAccessorsApi.md"/>
+            <toc-element toc-title="Column Accessors API" topic="columnAccessorsApi.md"/>
             <toc-element topic="KPropertiesApi.md"/>
             <toc-element topic="extensionPropertiesApi.md"/>
         </toc-element>
